@@ -21,6 +21,10 @@ export default function Home() {
       <p>
         This is a great place to learn and share knowledge about technology.
       </p>
+
+      <div>
+        <h1>Hi, this is an update i am making.</h1>
+      </div>
     </div>
   );
 }
